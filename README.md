@@ -84,7 +84,7 @@ Achievements are a side effect of doing real, useful things on GitHub — review
 
 ┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
 
-**Curated by Rexden**
+**Curated by @r3xden**
 Support: *coming soon*
 
 ┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
