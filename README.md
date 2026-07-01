@@ -1,13 +1,20 @@
 <div align="center">
 
-# ᯓ★ GitHub Achievements — A Field Guide
+# GitHub Achievements — A Field Guide
 
 *A quiet, well-ordered reference for the badges GitHub hands out —*
 *what they are, whether you can still earn them, and how.*
 
-┌───────────────────────────────────────────┐
-│  oldest → newest · earnable · in progress  │
-└───────────────────────────────────────────┘
+<table align="center">
+<tr>
+<td>
+
+oldest → newest · earnable · in progress
+
+</td>
+</tr>
+</table>
+
 
 </div>
 
