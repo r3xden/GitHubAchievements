@@ -55,25 +55,6 @@ The reasoning behind each status — and why some badges closed for good — liv
 
 ---
 
-## Icons
-
-The `assets/` folder holds the custom badge icons used across these documents. Each icon corresponds by filename to the achievement it represents, so if you're browsing on disk rather than through the rendered markdown, that folder is the visual index.
-
-```
-assets/
- ├── pull-shark.png
- ├── pair-extraordinaire.png
- ├── galaxy-brain.png
- ├── quickdraw.png
- ├── yolo.png
- ├── starstruck.png
- ├── public-sponsor.png
- ├── arctic-code-vault-contributor.png
- └── mars-2020-contributor.png
-```
-
----
-
 ## A note on intent
 
 Achievements are a side effect of doing real, useful things on GitHub — reviewing code, fixing bugs, answering someone's question, sharing work worth starring. This repo documents them for people who are curious how the system works, not as an invitation to farm hollow pull requests against your own repositories. The `OBTAIN.md` guide is written with that distinction in mind.
