@@ -178,6 +178,6 @@ Next: **[`OBTAIN.md`](./OBTAIN.md)** — the practical guide to earning everythi
 
 <div align="center">
 
-Curated by **Rexden** · Support: *coming soon*
+Curated by **[@r3xden](https://github.com/r3xden)** · Support: *coming soon*
 
 </div>
