@@ -120,6 +120,6 @@ The most direct badge on the list — no accumulation, no tiers, no waiting on s
 
 <div align="center">
 
-Curated by **[@r3xden](https://github.com/r3xden)** · Support: *coming soon*
+Curated by **[@r3xden](https://github.com/r3xden)** · Support: *rexdenbusiness@gmail.com*
 
 </div>
