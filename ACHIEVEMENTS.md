@@ -62,7 +62,7 @@ Earned by using GitHub Sponsors to financially back a developer or organization.
 
 ---
 
-## II. The 2022 expansion
+## II. The (2022) expansion
 
 In June 2022, GitHub added six more badges at once, each tied to an everyday collaboration pattern rather than a one-off program. This is where achievements stopped being commemorative and became something closer to a running record of how you work.
 
